@@ -1,29 +1,32 @@
-[Short description of problem here]
+### Prerequisites
 
-**Reproduction Steps:**
+* [ ] Put an X between the brackets on this line if you have done all of the following:
+    * This package is up-to-date
+    * Reproduced the problem in Safe Mode: http://flight-manual.atom.io/hacking-atom/sections/debugging/#using-safe-mode
+    * Followed all applicable steps in the debugging guide: http://flight-manual.atom.io/hacking-atom/sections/debugging/
+    * Checked the FAQs on the message board for common solutions: https://discuss.atom.io/c/faq
+    * Checked that your issue isn't already filed: https://github.com/issues
+
+### Description
+
+[Description of the issue]
+
+### Steps to Reproduce
 
 1. [First Step]
 2. [Second Step]
-3. [Other Steps...]
+3. [and so on...]
 
-**Expected behavior:**
+**Expected behavior:** [What you expect to happen]
 
-[Describe expected behavior here]
+**Actual behavior:** [What actually happens]
 
-**Observed behavior:**
+**Reproduces how often:** [What percentage of the time does it reproduce?]
 
-[Describe observed behavior here]
+### Versions
 
-**Screenshots and GIFs**
+You can get this information from copy and pasting the output of `atom --version` and `apm --version` from the command line. Also, please include the OS and what version of the OS you're running.
 
-![Screenshots and GIFs which follow reproduction steps to demonstrate the problem](url)
+### Additional Information
 
-**Clear Night UI version:** [Enter Clear Night version here]
-
-**Atom version:** [Enter Atom version here]
-
-**OS and version:** [Enter OS name and version here]
-
-**Installed packages:**
-
-[List of installed packages here]
+Any additional information, configuration or data that might be necessary to reproduce the issue.
