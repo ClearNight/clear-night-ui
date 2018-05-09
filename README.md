@@ -4,8 +4,6 @@
 
 A soothing dark theme for the Atom text editor. Designed to work with [Clear Night Syntax](https://atom.io/packages/clear-night-syntax), but integrates nicely with other syntax themes.
 
-Clear Night was inspired by [Glacier Dark UI](https://github.com/berlouz/glacier-dark-ui) and [Nord UI](https://github.com/arcticicestudio/nord-atom-ui).
-
 ## Preview
 
 <p align="center"><img src="https://raw.githubusercontent.com/ClearNight/clear-night-ui/master/assets/img/preview.png" alt="Preview image" /></p>
